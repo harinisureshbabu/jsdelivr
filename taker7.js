@@ -11,15 +11,13 @@
 // @grant       GM_xmlhttpRequest
 // ==/UserScript==
 
-// https://github.com/harinisureshbabu/jquery/blob/16e233c4e31acd419ec3744ef10ba24df610772e/isha-ban1.js
-
 var clickOnce = 0;
 var callOnce = 0;
 var callOncerewardAccept = 0;
 var reqBlockList = [];
 var rewardAccept = 0;
 
-console.log("Welcome To Harini Online Jobs");
+console.log("Welcome To Harini Online Jobs 2025");
 
 //////////////////////////////////////////////////////////////
 
