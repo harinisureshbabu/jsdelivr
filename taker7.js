@@ -924,7 +924,7 @@ function GetJobList() {
                 setTimeout(function() {  getUrl(); }, 3000);
             }
             else{
-                document.getElementById("runningjosb").innerText = "AC:"+rewardAccept+": Job Cather Running . . Req Lists : "+panel_onoff+ ", Q : "+qocr_onoff;
+                document.getElementById("runningjosb").innerText = "AC:"+rewardAccept+": Job Cather Running . . Req List : "+panel_onoff+ ", Q : "+qocr_onoff;
                 if(panel_onoff == "" || panel_onoff == "off") {
                     callJobList = 0;
                     if(callOnce == 0) {
